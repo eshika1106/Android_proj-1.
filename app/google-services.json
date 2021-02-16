@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573206161349",
+    "firebase_url": "https://bull-s-app-android-project.firebaseio.com",
+    "project_id": "bull-s-app-android-project",
+    "storage_bucket": "bull-s-app-android-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573206161349:android:ffb86f132753ccae5e4dac",
+        "android_client_info": {
+          "package_name": "com.example.bullsappandroidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573206161349-7procg2snrcjemv4mkc8le8cg4popsd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQrl9booMOisrHjYTuTWxFJFav7Eu7Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573206161349-7procg2snrcjemv4mkc8le8cg4popsd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
